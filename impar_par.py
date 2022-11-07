@@ -1,3 +1,6 @@
+
+
+
 maior_impar = 0
 menor_impar = 0
 maior_par = 0
@@ -36,3 +39,8 @@ print(f'A media de notas impares foi: {medias_impar}')
 print(f'A maior nota par foi: {maior_par}')
 print(f'A menor nota par foi: {menor_par}')
 print(f'A media de notas pares foi: {medias_par}')
+
+
+
+
+
